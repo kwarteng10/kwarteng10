@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwarteng10
-- 👀 I’m interested in nuclear reactor physics
-- 🌱 I’m currently learning openmc
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Physics-Informed Machine Learning techqniques
+- 💞️ I’m looking to collaborate on projects in computational modelling of nuclear reactor phenomena
 - 📫 How to reach me ...
 
 <!---
