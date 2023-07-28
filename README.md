@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwarteng10
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Physics-Informed Machine Learning techqniques
+- 👀 I’m interested in nuclear reactor physics, thermal-hydraulics, and safety analysis
+- 🌱 I’m currently learning Physics-Informed Machine Learning techniques
 - 💞️ I’m looking to collaborate on projects in computational modelling of nuclear reactor phenomena
 - 📫 How to reach me ...
 
